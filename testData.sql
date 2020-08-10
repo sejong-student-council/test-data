@@ -29,7 +29,7 @@ POST    localhost:3000/api/user/join
 {
 	"id": "leeseon",
 	"pw": "leeseon3333",
-	"nickname": "Leeseon",
+	"nickname": "Lee",
 	"major": 2,
 	"level": 1
 }
@@ -45,7 +45,7 @@ POST    localhost:3000/api/user/join
 {
 	"id": "heanjea",
 	"pw": "heanjea5555",
-	"nickname": "Heanjea",
+	"nickname": "Hean",
 	"major": 1,
 	"level": 1
 }
@@ -53,7 +53,7 @@ POST    localhost:3000/api/user/join
 {
 	"id": "suhean",
 	"pw": "suhean6666",
-	"nickname": "Suhean",
+	"nickname": "Su",
 	"major": 4,
 	"level": 3
 }
