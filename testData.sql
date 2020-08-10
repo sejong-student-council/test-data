@@ -11,49 +11,49 @@ INSERT INTO board(title) VALUES('board5');
 POST    localhost:3000/api/user/join
 
 {
-	"id": 'yura',
-	"pw": 'yura1111',
-	"nickname": 'Yura',
+	"id": "yura",
+	"pw": "yura1111",
+	"nickname": "Yura",
 	"major": 1,
 	"level": 2
 }
 
 {
-	"id": 'yuta',
-	"pw": 'yuta2222',
-	"nickname": 'Yuta',
+	"id": "yuta",
+	"pw": "yuta2222",
+	"nickname": "Yuta",
 	"major": 2,
 	"level": 1
 }
 
 {
-	"id": 'leeseon',
-	"pw": 'leeseon3333',
-	"nickname": 'Leeseon',
+	"id": "leeseon",
+	"pw": "leeseon3333",
+	"nickname": "Leeseon",
 	"major": 2,
 	"level": 1
 }
 
 {
-	"id": 'suaa',
-	"pw": 'suaa4444',
-	"nickname": 'Suaa',
+	"id": "suaa",
+	"pw": "suaa4444",
+	"nickname": "Suaa",
 	"major": 3,
 	"level": 1
 }
 
 {
-	"id": 'heanjea',
-	"pw": 'heanjea5555',
-	"nickname": 'Heanjea',
+	"id": "heanjea",
+	"pw": "heanjea5555",
+	"nickname": "Heanjea",
 	"major": 1,
 	"level": 1
 }
 
 {
-	"id": 'suhean',
-	"pw": 'suhean6666',
-	"nickname": 'Suhean',
+	"id": "suhean",
+	"pw": "suhean6666",
+	"nickname": "Suhean",
 	"major": 4,
 	"level": 3
 }
