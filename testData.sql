@@ -14,6 +14,7 @@ POST    localhost:3000/api/user/join
 	"id": "yura",
 	"pw": "yura1111",
 	"nickname": "Yura",
+	"studentId": "20001111",
 	"major": 1,
 	"level": 2
 }
@@ -22,6 +23,7 @@ POST    localhost:3000/api/user/join
 	"id": "yuta",
 	"pw": "yuta2222",
 	"nickname": "Yuta",
+	"studentId": "19002222",
 	"major": 2,
 	"level": 1
 }
@@ -30,6 +32,7 @@ POST    localhost:3000/api/user/join
 	"id": "leeseon",
 	"pw": "leeseon3333",
 	"nickname": "Lee",
+	"studentId": "18003333",
 	"major": 2,
 	"level": 1
 }
@@ -38,6 +41,7 @@ POST    localhost:3000/api/user/join
 	"id": "suaa",
 	"pw": "suaa4444",
 	"nickname": "Suaa",
+	"studentId": "17004444",
 	"major": 3,
 	"level": 1
 }
@@ -46,6 +50,7 @@ POST    localhost:3000/api/user/join
 	"id": "heanjea",
 	"pw": "heanjea5555",
 	"nickname": "Hean",
+	"studentId": "16005555",
 	"major": 1,
 	"level": 1
 }
@@ -54,6 +59,7 @@ POST    localhost:3000/api/user/join
 	"id": "suhean",
 	"pw": "suhean6666",
 	"nickname": "Su",
+	"studentId": "15006666",
 	"major": 4,
 	"level": 3
 }
